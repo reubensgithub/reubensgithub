@@ -8,12 +8,16 @@
   </a>
 </div>
 
+---
+
 ### // About Me :
 I'm Reuben, a third year student at the University of Exeter undergoing an Integrated Master's in Computer Science, with aspirations in Artificial Intelligence, Machine Learning and Software Development.
 - :robot: Utilising machine learning and computer vision to develop an automatic number plate recognition (ANPR) software
 - :computer: Experience with multiple languages, such as Python, Java and C
 - :walking::evergreen_tree: Developed an app as part of a group of six using React, JS, HTML and Strava API to promote sustainability on campus!
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reuben-kurian-5a32ba302/)
+
+---
 
 ### // **My Top Tools That I Have Used:**
 
@@ -29,3 +33,7 @@ I'm Reuben, a third year student at the University of Exeter undergoing an Integ
 | Education | ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) ![Wikipedia](https://img.shields.io/badge/wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=FFFFFF) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)|
 | Other | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) ![GNU](https://img.shields.io/badge/gnu-A42E2B?style=for-the-badge&logo=gnu&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)|
 <hr>
+
+---
+
+### :fire: My Stats :
