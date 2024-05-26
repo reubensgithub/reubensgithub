@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/reuben-kurian-5a32ba302/">
