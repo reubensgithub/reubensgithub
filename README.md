@@ -34,6 +34,5 @@ I'm Reuben, a third year student at the University of Exeter undergoing an Integ
 | Other | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) ![GNU](https://img.shields.io/badge/gnu-A42E2B?style=for-the-badge&logo=gnu&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)|
 <hr>
 
----
-
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reubensgithub&theme=dark&background=000000)](https://git.io/streak-stats)
