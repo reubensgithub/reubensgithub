@@ -11,7 +11,7 @@
 ---
 
 ### // About Me :
-I'm Reuben, a third year student at the University of Exeter undergoing an Integrated Master's in Computer Science, with aspirations in Artificial Intelligence, Machine Learning and Software Development.
+I'm Reuben, a fourth year student at the University of Exeter undergoing an Integrated Master's in Computer Science, with aspirations in Artificial Intelligence, Machine Learning and Software Development.
 - :robot: Utilising machine learning and computer vision to develop an automatic number plate recognition (ANPR) software
 - :computer: Experience with multiple languages, such as Python, Java and C
 - :walking::evergreen_tree: Developed an app as part of a group of six using React, JS, HTML and Strava API to promote sustainability on campus!
